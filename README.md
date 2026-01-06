@@ -72,10 +72,14 @@
   <a href="https://www.linkedin.com/in/divyansh-sharma-ab51bb387/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
   <a href="mailto:shivanigautam07021@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+![LeetCode](https://leetcard.jacoblin.cool/Shivani_Gautam07)
+
 
 ---
 
