@@ -46,11 +46,8 @@
 ### 💡 Programming Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://cdn.simpleicons.org/hoppscotch/FFFFFF" width="40" alt="Hoppscotch" />
 </p>
-<a href="https://hoppscotch.io" target="_blank">
-  <img src="https://cdn.simpleicons.org/hoppscotch/black"
-       width="40"/>
-</a>
 
 ---
 
@@ -76,17 +73,18 @@
   <a href="https://www.linkedin.com/in/divyansh-sharma-ab51bb387/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+  &nbsp;
   <a href="mailto:shivanigautam07021@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
+ &nbsp;
 <a href="https://leetcode.com/Shivani_Gautam07/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
        alt="LeetCode"
        width="40"
        height="40"/>
 </a>
+&nbsp;
 </p>
 
 
