@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhqNWJpc3d5cHQxMXFjYXRlOHhjbG9qa3Nzd3plNDk5bXZxd2swbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEwAunvHk2wx235PD4/giphy.gif" width="250"/>
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
 <h3 align="center">MERN Stack Developer | Java & DSA Learner | Problem Solver</h3>
