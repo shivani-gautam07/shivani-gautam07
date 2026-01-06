@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivani-gautam07&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivani-gautam07&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-gautam07&theme=tokyonight" height="160"/>
 </p>
 
