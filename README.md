@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897621-3aeb9e93-fc4f-4f38-9f2a-2dcafc92f9f4.gif" width="300"/>
+</p>
 
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
