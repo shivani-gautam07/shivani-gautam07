@@ -85,11 +85,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
  &nbsp;
-<a href="https://leetcode.com/Shivani_Gautam07/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-       alt="LeetCode"
-       width="40"
-       height="40"/>
+<a href="https://leetcode.com/u/Shivani_Gautam07/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 &nbsp;
 </p>
