@@ -77,6 +77,13 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+<a href="https://leetcode.com/your-username/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+       alt="LeetCode"
+       width="40"
+       height="40"/>
+</a>
+
 
 ![LeetCode](https://leetcard.jacoblin.cool/Shivani_Gautam07)
 
