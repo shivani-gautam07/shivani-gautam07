@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" alt="Girl Emoji" width="1000px"/>
+<img src="https://cdn.openai.com/images/A_digital_illustration_in_the_emoji_art_style_feat.png" alt="Girl Emo Emoji" width="1000px"/>
 
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
@@ -95,12 +95,6 @@
 > I debug code better with coffee ☕ and express creativity through my voice 🎙️
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
----
-### Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/shivani-gautam07/shivani-gautam07/output/github-contribution-grid-snake-dark.svg)
 
