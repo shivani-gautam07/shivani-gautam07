@@ -87,10 +87,6 @@
 &nbsp;
 </p>
 
-
-![LeetCode](https://leetcard.jacoblin.cool/Shivani_Gautam07)
-
-
 ---
 
 ## ✨ Fun Fact
