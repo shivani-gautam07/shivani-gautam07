@@ -1,5 +1,4 @@
-<img src="https://cdn.openai.com/images/A_digital_illustration_in_the_emoji_art_style_feat.png" alt="Girl Emo Emoji" width="1000px"/>
-
+<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
 <h3 align="center">MERN Stack Developer | Java & DSA Learner | Problem Solver</h3>
