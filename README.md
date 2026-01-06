@@ -84,11 +84,11 @@
   <a href="mailto:shivanigautam07021@gmail.com">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" />
   </a>
- &nbsp;
+
 <a href="https://leetcode.com/u/Shivani_Gautam07/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48"/>
 </a>
-&nbsp;
+
 </p>
 
 ---
