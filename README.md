@@ -76,13 +76,14 @@
   <a href="mailto:shivanigautam07021@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-<a href="https://leetcode.com/your-username/" target="_blank">
+
+<a href="https://leetcode.com/Shivani_Gautam07/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
        alt="LeetCode"
        width="40"
        height="40"/>
 </a>
+</p>
 
 
 ![LeetCode](https://leetcard.jacoblin.cool/Shivani_Gautam07)
