@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/developer.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656974-6d9e3e90-0c7c-4b88-b2b8-6b5c2b4b3f1e.gif" width="320"/>
 </p>
+
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
 <h3 align="center">MERN Stack Developer | Java & DSA Learner | Problem Solver</h3>
