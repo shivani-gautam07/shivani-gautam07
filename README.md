@@ -78,15 +78,15 @@
 
 <p>
   <a href="https://www.linkedin.com/in/divyansh-sharma-ab51bb387/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
   <a href="mailto:shivanigautam07021@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" />
   </a>
  &nbsp;
-<a href="https://leetcode.com/u/Shivani_Gautam07/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<a href="https://leetcode.com/u/Shivani_Gautam07/">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
 </a>
 &nbsp;
 </p>
