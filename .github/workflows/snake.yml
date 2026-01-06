@@ -1,18 +1,18 @@
 name: Generate Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: shivani-gautam07
@@ -20,10 +20,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: output
           create_branch: true
-          commit_message: "Generate contribution snake"
+          commit_message: "Update snake animation"
           file_pattern: dist/*
