@@ -86,7 +86,7 @@
   </a>
  &nbsp;
 <a href="https://leetcode.com/u/Shivani_Gautam07/">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="150" width="150"/>
 </a>
 &nbsp;
 </p>
