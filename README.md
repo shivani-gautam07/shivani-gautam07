@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
+<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" alt="Girl Emoji" width="1000px"/>
+
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
 <h3 align="center">MERN Stack Developer | Java & DSA Learner | Problem Solver</h3>
@@ -94,8 +95,13 @@
 > I debug code better with coffee ☕ and express creativity through my voice 🎙️
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
+---
+### Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shivani-gautam07/shivani-gautam07/output/github-contribution-grid-snake-dark.svg)
+
 
