@@ -33,12 +33,19 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 💡 Programming & Tools
+
+### 👩‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,postman,hoppscotch,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+
+### 💡 Programming Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,hoppscotch,vscode" />
 </p>
 
 ---
