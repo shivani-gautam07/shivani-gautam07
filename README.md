@@ -45,8 +45,12 @@
 
 ### 💡 Programming Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,hoppscotch,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
+<a href="https://hoppscotch.io" target="_blank">
+  <img src="https://cdn.simpleicons.org/hoppscotch/black"
+       width="40"/>
+</a>
 
 ---
 
