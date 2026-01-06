@@ -33,12 +33,12 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sql" />
 </p>
 
 ### 💡 Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,postman,hoppscotch,vscode" />
 </p>
 
 ---
@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivani-gautam07&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-gautam07&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -62,10 +62,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/divyansh-sharma-ab51bb387/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:shivanigautam07021@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
