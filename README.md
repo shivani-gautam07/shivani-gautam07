@@ -1,4 +1,10 @@
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<img 
+  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+  width="100%"
+  height="300px"
+  style="object-fit: cover;"
+/>
+
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
 <h3 align="center">MERN Stack Developer | Java & DSA Learner | Problem Solver</h3>
