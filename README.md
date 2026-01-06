@@ -1,16 +1,83 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Shivani Gautam</h1>
+<h3 align="center">MERN Stack Developer | Java & DSA Learner | Problem Solver</h3>
 
-<!--
-**shivani-gautam07/shivani-gautam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;Learning+DSA+with+Java;Building+Real+World+Projects;Consistent+%26+Curious+Learner&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Final-year student (Graduating 2026)
+- 💻 Strong foundation in **MERN Stack**
+- 🧠 Practicing **Data Structures & Algorithms in Java**
+- 🚀 Passionate about building **scalable web applications**
+- 🎙️ Voice Artist | ☕ Coffee Lover
+- 📈 Focused on consistency & daily improvement
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 💡 Programming & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+- Advanced MERN concepts
+- Java DSA (Problem Solving)
+- Clean Code & Best Practices
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+> I debug code better with coffee ☕ and express creativity through my voice 🎙️
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
