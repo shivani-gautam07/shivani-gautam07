@@ -1,5 +1,5 @@
 <img 
-  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnRnZzZ6MHB1MDBzbWl4b3Vucnl5cXlzMWo5Y2xoaHg1d3dpZmFreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif"
   width="100%"
   height="300px"
   style="object-fit: cover;"
